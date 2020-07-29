@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "College and now: on completion of a year"
-author: chandan
-categories: [ engineering, views]
+title: "My internship exp w/ Litifer"
+author: gourav
+categories: [experience]
 image: assets/images/college-now-1.jpeg
 types: [post]
 published: true
 ---
-It has been a little more than a year since I have left college and joined the industry. In this little period, I sensed things that require a different way of looking. I realized that I do things in a different way than I would have done them as a college grad. I thought I’d share my experiences and lesson learned.
 
+It has been a little more than a year since I have left college and joined the industry. In this little period, I sensed things that require a different way of looking. I realized that I do things in a different way than I would have done them as a college grad. I thought I’d share my experiences and lesson learned.
 
 ## Then And Now
 
@@ -31,5 +31,6 @@ The lessons/courses I attended learning CIDRs, subnets, proxies, NATs, route tab
 Those learnings in college corridors are vital while understanding and using cloud resources. Distributed systems are real and evolving day by day. While learning dynamo/cassandra I could recall the concepts like causal ordering, vector clocks gossip and how to continue to work even after node failures etc.
 
 ## Containers
+
 Scaling has never been easy. I got to learn more while looking for more in similar fronts, Statelessness of applications and immutability of deployments([Immutable deployments](https://www.digitalocean.com/community/tutorials/what-is-immutable-infrastructure)) can be fruitful in scaling my applications and balancing the load across the replicas of the same application.
 The rapid embrace of containers has helped us realize immutability of deployments, and eased the process of shipping application. Container orchestrators like kubernetes has taken this few steps further. With kubernetes deployments become seamless with no downtime. It has certainly made scaling of applications reliable and easier.
